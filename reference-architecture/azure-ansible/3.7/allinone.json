@@ -154,7 +154,7 @@
     },
     "metrics" : {
       "type" : "bool",
-      "defaultValue" : true,
+      "defaultValue" : false,
       "metadata" : {
         "description" : "Enable OCP metrics"
       }
@@ -175,7 +175,7 @@
     }
   },
   "variables" : {
-    "gituser" : "openshift",
+    "gituser" : "mikenald",
     "branch" : "master",
     "version" : "3.7",
     "baseTemplateUrl" : "[concat('https://raw.githubusercontent.com/',variables('gituser'),'/openshift-ansible-contrib/',variables('branch'),'/reference-architecture/azure-ansible/',variables('version'),'/')]",
