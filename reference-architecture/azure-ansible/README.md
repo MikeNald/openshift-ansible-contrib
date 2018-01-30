@@ -20,7 +20,7 @@ When creating the Red Hat OpenShift Container Platform on Azure, you will need a
 ## Create the Installation
 
 
-#### OCP 3.7 Create a Single VM Installation using the Azure Portal
+#### OCP 3.7 Create a Single VM Installation using the Azure Portal by MNaldini
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMikeNald%2Fopenshift-ansible-contrib%2Fmaster%2Freference-architecture%2Fazure-ansible%2F3.7%2Fallinone.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
